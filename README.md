@@ -9,7 +9,7 @@ In today's fast-paced world, accessing expert advice and consultation is crucial
 1. Healthcare
 2. Education
 3. Tech.
-4. Others 
+4. Others
 
 
 ## Instructions
@@ -38,7 +38,7 @@ In today's fast-paced world, accessing expert advice and consultation is crucial
 ### Challenges Outline:
 
 - **User-Centric Design:** Develop a user-friendly platform or application that simplifies the process of connecting with experts. Consider usability, accessibility, and inclusivity
-- **Expert Verification:** Ensure the expertise and credibility of the experts on your platform. How can users trust the advice they receive? 
+- **Expert Verification:** Ensure the expertise and credibility of the experts on your platform. How can users trust the advice they receive?
 - **Privacy and Security:** Implement robust security measures to protect users' sensitive information and maintain the privacy of consultations.
 - **Scalability:** Design a solution that can scale and adapt to accommodate a growing user base and an increasing number of experts.
 - **Equity and Inclusivity:** How can your solution address issues of accessibility and ensure that expert consultation is available to underserved communities?
